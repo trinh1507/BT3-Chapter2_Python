@@ -1,0 +1,1 @@
+Xin chào! Đây là file mẫu để thử đếm số từ. Python giúp việc xử lý tệp trở nên dễ dàng.
